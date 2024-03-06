@@ -1,6 +1,7 @@
 # Closed-loop Teaching Study
 
 ## Running the study locally
+* (Please note that the study may not run fully due to efforts to make the repository anonymous and lightweight. The full, de-anonymized repository will be provided for the camera-ready paper.)
 - Install the following packages, preferably in an isolated environment like conda. If you get an error, try installing the specific version listed: 
 
 ```
@@ -25,7 +26,7 @@
 
 ## Data analysis
 
-* Run `analysis/data_analysis.py`. The data collected from the user study can found in `analysis/dfs_f23_processed.pickle`.
+* Run `analysis/data_analysis.py`. The data collected from the user study can normally be found in `analysis/dfs_f23_processed.pickle` (though this file has been temporarily removed for anonymization purposes).
 
 ## Recreating the database (app.db)
 
